@@ -1,0 +1,39 @@
+.form {
+  display: flex;
+  gap: 30px;
+  flex-direction: column;
+  margin-bottom: 50px;
+}
+
+.form__inputs {
+  display: flex;
+  gap: 20px;
+}
+
+.form__category {
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 2px;
+  background: none;
+  background-color: #000;
+  color: #ffe81f;
+}
+
+.form__selection {
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 2px;
+  background: none;
+  background-color: #000;
+  color: #ffe81f;
+}
+
+.form__submit {
+  background-color: #ffe81f;
+  border: none;
+  border-radius: 5px;
+  min-height: 50px;
+}
+
+.form__submit:hover {
+  cursor: pointer;
+  background-color: #ffe81f80;
+}

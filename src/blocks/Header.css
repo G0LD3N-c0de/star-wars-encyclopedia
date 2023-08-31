@@ -1,0 +1,15 @@
+.header {
+  padding: 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__title {
+  margin: 0;
+}
+
+.header__right {
+  display: flex;
+  column-gap: 15px;
+}
