@@ -27,8 +27,8 @@ const Form = ({
           className="form__selection"
           type="number"
           min={1}
-          max={maxValue}
-          placeholder="Selection"
+          max={maxValue || 6}
+          placeholder="1"
           onChange={handleSelectionChange}
         ></input>
       </div>

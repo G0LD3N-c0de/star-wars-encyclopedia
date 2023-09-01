@@ -3,10 +3,10 @@ import People from "./People";
 import Films from "./Films";
 import "../blocks/Main.css";
 import { useEffect, useState } from "react";
-import { getStarWarsInfo, getHomeWorld, getStarWarsfilms } from "../utils/Api";
+import { getStarWarsInfo, getHomeWorld } from "../utils/Api";
 const Main = () => {
   const [category, setCategory] = useState("films");
-  const [selection, setSelection] = useState("1");
+  const [selection, setSelection] = useState(1);
 
   const [maxValue, setMaxValue] = useState(0);
 

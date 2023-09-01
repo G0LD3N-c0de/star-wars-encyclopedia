@@ -2,7 +2,7 @@
   "name": "star-wars-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://G0LD3N-c0de.github.io/star-wars-encylcopedia",
+  "homepage": "https://g0ld3n-c0de.github.io/star-wars-encyclopedia/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -36,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
