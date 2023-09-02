@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/star-wars-encylcopedia/static/css/main.33de53ef.css",
-    "main.js": "/star-wars-encylcopedia/static/js/main.0deddad8.js",
-    "static/js/787.cbe9812e.chunk.js": "/star-wars-encylcopedia/static/js/787.cbe9812e.chunk.js",
-    "index.html": "/star-wars-encylcopedia/index.html",
-    "main.33de53ef.css.map": "/star-wars-encylcopedia/static/css/main.33de53ef.css.map",
-    "main.0deddad8.js.map": "/star-wars-encylcopedia/static/js/main.0deddad8.js.map",
-    "787.cbe9812e.chunk.js.map": "/star-wars-encylcopedia/static/js/787.cbe9812e.chunk.js.map"
+    "main.css": "/star-wars-encyclopedia/static/css/main.16a3e948.css",
+    "main.js": "/star-wars-encyclopedia/static/js/main.daf38766.js",
+    "static/js/787.cbe9812e.chunk.js": "/star-wars-encyclopedia/static/js/787.cbe9812e.chunk.js",
+    "index.html": "/star-wars-encyclopedia/index.html",
+    "main.16a3e948.css.map": "/star-wars-encyclopedia/static/css/main.16a3e948.css.map",
+    "main.daf38766.js.map": "/star-wars-encyclopedia/static/js/main.daf38766.js.map",
+    "787.cbe9812e.chunk.js.map": "/star-wars-encyclopedia/static/js/787.cbe9812e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33de53ef.css",
-    "static/js/main.0deddad8.js"
+    "static/css/main.16a3e948.css",
+    "static/js/main.daf38766.js"
   ]
 }
